@@ -1,4 +1,4 @@
 # Database-Terms
 
-Heterogeneous
+Heterogeneous \
 Homogeneous
